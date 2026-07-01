@@ -68,6 +68,10 @@ What sets me apart is my hybrid background: matching robust engineering with **U
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StevOng&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=38B2AC&text_color=ffffff" alt="Top Languages" height="180px" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevOng&theme=github-dark&bg_color=121212&color=38B2AC&line=38B2AC&point=ffffff&hide_border=true" alt="Steven's GitHub Activity Graph" width="100%" />
+</p>
+
 ---
 
 <p align="center">
