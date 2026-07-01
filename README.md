@@ -19,7 +19,7 @@ What sets me apart is my hybrid background: matching robust engineering with **U
 
 - 🎓 **Education:** Bachelor of Computer Science (S.Kom) from Universitas Mikroskil (IPK: 3.98/4.00)
 - 💼 **Latest Experience:** Alumnus of MSIB Batch 6 as a **UX Researcher at PT Jobhun Membangun Indonesia**
-- 🛠️ **Current Focus:** Crafting high-performance web apps using **Next.js**, **JavaScript**, and **Tailwind CSS**
+- 🛠️ **Current Focus:** Crafting high-performance web apps using **Next.js**, **Go (Gin)**, and **PostgreSQL**.
 - 🎮 **Interests:** When I'm not coding or analyzing user flows, you'll probably find me gaming.
 
 ---
@@ -64,15 +64,15 @@ What sets me apart is my hybrid background: matching robust engineering with **U
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=StevOng&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff" alt="Steven's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevOng&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=38B2AC&text_color=ffffff" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=StevOng&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff" alt="Steven's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StevOng&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=38B2AC&text_color=ffffff" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
 <p align="center">
   <i>"Combining code precision with user-centered design."</i><br/>
-  Let's connect! Feel free to reach out via <b><a href="https://linkedin.com/in/steven-ongki">LinkedIn</a></b> or <b><a href="mailto:stevenongki7@gmail.com">Email</a></b>.
+  Let's connect! Feel free to reach out via <b><a href="https://linkedin.com/in/steven-ongki">LinkedIn</a></b>. <!-- or <b><a href="mailto:stevenongki7@gmail.com">Email</a></b> -->
 </p>
 
 <!--
